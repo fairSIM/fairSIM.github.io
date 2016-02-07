@@ -1,0 +1,133 @@
+\documentclass[twoside=false,
+           a4paper,
+           10pt,DIV=16,parindent=none,parskip=half]{article}
+
+\usepackage{hyperref}
+\usepackage{verbatim}
+
+
+\title{fairSIM, a free, open source ImageJ plugin for SR-SIM reconstructions} 
+\date{\small \today}
+
+% ========================================================================================
+% The document itself
+
+\begin{document}
+
+\Css {body {
+	    max-width: 40em;
+	    margin: auto;
+	    padding: 1em;
+     }
+}
+\maketitle
+
+
+\section*{Introduction}
+This page provides an overview of all resources available
+for \textbf{fairSIM}  - Free Analysis and Interactive Reconstruction for Structured Illumination Microscopy.
+\\
+All resources are hosted on \href{https://github.com/fairSIM}{our public github repositorys},
+most are mirrored on our \href{http://www.physik.uni-bielefeld.de/fairsim}{institute website}.
+
+\subsection*{Plug-in}
+\begin{itemize}
+\item 
+ImageJ / Fiji plugin:
+\href{https://github.com/fairSIM/fairSIM/releases/latest}{latest jar file},
+\href{https://github.com/fairSIM/fairSIM/}{source code}
+\item
+Quickstart guide / short user manual:
+\href{https://github.com/fairSIM/documentation/releases/latest}{PDF},
+\href{https://github.com/fairSIM/documentation}{source}
+\end{itemize}
+
+% --------
+
+\subsection*{Datasets}
+
+All raw data files organized in \href{https://github.com/fairSIM/test-datasets}{this repository}.
+
+Raw image files:
+\begin{itemize}
+
+\item \href
+{https://github.com/fairSIM/test-datasets/releases/download/OMXv4-Bielefeld/OMX_LSEC_Actin_525nm.tif}
+{OMX LSEC Actin 525nm}
+
+\item\href
+{https://github.com/fairSIM/test-datasets/releases/download/OMXv4-Bielefeld/OMX_LSEC_Membrane_680nm.tif}
+{OMX LSEC Membrane 680nm}
+
+\item\href
+{https://github.com/fairSIM/test-datasets/releases/download/OMXv4-Bielefeld/OMX_Tetraspeck200_680nm.tif}
+{OMX 200nm-Tetraspecks 680nm}
+
+\item \href
+{https://github.com/fairSIM/test-datasets/releases/download/OMXv4-Bielefeld/OMX_U2OS_Actin_525nm.tif}
+{OMX U2OS Actin 525nm}
+
+\item \href
+{https://github.com/fairSIM/test-datasets/releases/download/OMXv4-Bielefeld/OMX_U2OS_Mitotracker_600nm.tif}
+{OMX U2OS Mitotracker 600nm}
+
+\item \href
+{https://github.com/fairSIM/test-datasets/releases/download/OMXv4-Bielefeld/OMX_U2OS_Tubulin_525nm.tif}
+{OMX U2OS Tubulin 525nm}
+
+\item \href
+{https://github.com/fairSIM/test-datasets/releases/download/SLM-SIM-Bielefeld/SLM-SIM_Tetraspeck200_680nm.tif}
+{SLM-SIM 200nm-Tetraspeck 680nm}
+
+\item \href
+{https://github.com/fairSIM/test-datasets/releases/download/TIRF-SIM-Georgia/TIRF_Tubulin_525nm.tif}
+{TIRF-SIM Tubulin 525nm}
+
+\item \href
+{https://github.com/fairSIM/test-datasets/releases/download/ZeissElyraS1-Wuerzburg/Zeiss_Actin_525nm_crop.tif}
+{Zeiss Actin 515nm (512x512 px crop)}
+
+\item \href
+{https://github.com/fairSIM/test-datasets/releases/download/ZeissElyraS1-Wuerzburg/Zeiss_Actin_525nm_large.tif}
+{Zeiss Actin 515nm}
+
+\item \href
+{https://github.com/fairSIM/test-datasets/releases/download/ZeissElyraS1-Wuerzburg/Zeiss_Mito_600nm_crop.tif}
+{Zeiss Mito 620nm (512x512 px crop)}
+
+\item \href
+{https://github.com/fairSIM/test-datasets/releases/download/ZeissElyraS1-Wuerzburg/Zeiss_Mito_600nm_large.tif}
+{Zeiss Mito 620nm}
+
+\end{itemize}
+
+% --------
+
+Parameters, OTFs (can be
+\href{https://github.com/fairSIM/test-datasets/tree/master/parameters}
+{found here} in the repository)
+\\
+\begin{itemize}
+\item \href
+{https://github.com/fairSIM/test-datasets/releases/download/Parameters-v1.0/fairSIM-parameters.zip}
+{Parameter files for test data}
+
+\item \href
+{https://github.com/fairSIM/test-datasets/releases/download/Parameters-v1.0/OMX-OTFs.zip}
+{OMX OTFs, in fairSIMs format}
+
+\end{itemize}
+The parameter files and OTFs are not needed to run the reconstruction.\\
+They can be used to via the "load reconstruction" feature, and to
+compare approximated to experimentally determined OTFs.
+
+%\subsection*{Screencasts}
+
+%\begin{itemize}
+%\item
+%\href{./screencasts/}
+%{Screencast videos} of fairSIM in use
+%\end{itemize}
+
+
+\end{document}

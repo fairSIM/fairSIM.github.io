@@ -1,0 +1,13 @@
+.*.swp
+index*.4ct
+index*.4tc
+index*.aux
+index*.dvi
+index*.html
+index*.idv
+index*.lg
+index*.log
+index*.tmp
+index*.xref
+
+*.sh
