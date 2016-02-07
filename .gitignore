@@ -9,4 +9,6 @@ index*.log
 index*.tmp
 index*.xref
 
+index-mirror.html
+
 *.sh
