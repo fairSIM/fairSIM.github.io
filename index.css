@@ -2,6 +2,7 @@
 /* start css.sty */
 .cmr-17{font-size:170%;}
 .cmr-9{font-size:90%;}
+.cmtt-10{font-family: monospace;}
 .cmbx-10{ font-weight: bold;}
 p.noindent { text-indent: 0em }
 td p.noindent { text-indent: 0em; margin-top:0em; }
