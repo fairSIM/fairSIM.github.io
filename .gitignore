@@ -12,3 +12,6 @@ index*.xref
 index-mirror.html
 
 *.sh
+_site
+.sass-cache
+.jekyll-metadata
