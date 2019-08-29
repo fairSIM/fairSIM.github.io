@@ -11,7 +11,7 @@ that support our project.
 
 |[Sara Abrahamsson](letters/fairSIM-abrahamsson.pdf) | Jack Baskin School of Engineering | UC Santa Cruz, CA, USA |
 |[Peter McCourt](letters/fairSIM-mccourt.pdf) | Department of Medical Biology | University of Tromsø, Norway |
-|[Ian Dobbie](letters/fairSIM-dobbie.odf) | Micron Advanced Bioimaging Unit | University of Oxford, UK |
+|[Ian Dobbie](letters/fairSIM-dobbie.pdf) | Micron Advanced Bioimaging Unit | University of Oxford, UK |
 |[Jelle Hendrix](letters/fairSIM-hendrix.pdf) | Biomedisch Onderzoeks Instituut | University Hasselt, Belgium |
 
 
