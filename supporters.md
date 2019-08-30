@@ -13,6 +13,6 @@ that support our project.
 |[Peter McCourt](letters/fairSIM-mccourt.pdf) | Department of Medical Biology | University of Tromsø, Norway |
 |[Ian Dobbie](letters/fairSIM-dobbie.pdf) | Micron Advanced Bioimaging Unit | University of Oxford, UK |
 |[Jelle Hendrix](letters/fairSIM-hendrix.pdf) | Biomedisch Onderzoeks Instituut | University Hasselt, Belgium |
-
+|[Sebastian Munck](letters/fairSIM-munck.pdf) | VIB BioImaging Core | Leuven, Belgium | 
 
 
