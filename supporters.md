@@ -13,6 +13,9 @@ that support our project.
 |[Peter McCourt](letters/fairSIM-mccourt.pdf) | Department of Medical Biology | University of Tromsø, Norway |
 |[Ian Dobbie](letters/fairSIM-dobbie.pdf) | Micron Advanced Bioimaging Unit | University of Oxford, UK |
 |[Jelle Hendrix](letters/fairSIM-hendrix.pdf) | Biomedisch Onderzoeks Instituut | University Hasselt, Belgium |
+|[Laurent Mugnier](letters/fairSIM-mugnier.pdf) | Dépt Optique Théorique et Appliquée | ONERA - The French Aerospace Lab |
 |[Sebastian Munck](letters/fairSIM-munck.pdf) | VIB BioImaging Core | Leuven, Belgium | 
+|[Christian Schmidt](letters/fairSIM-schmidt.pdf) | Department of Physics | Duke University, NC, USA | 
+|[Herbert Schneckenburger](letters/fairSIM-schneckenburger.pdf) | Institute of Applied Research | Aalen University, Germany |
 
 
