@@ -4,7 +4,7 @@ layout: default
 
 Structured Illumination Microscopy (SIM) provides a fast and gentle super-resolution approach for
 fluorescence microscopy. The *fairSIM project* aims to provide a range of free and open-source
-tools for scientists working with SIM.
+tools and resources for scientists working with SIM.
 
 ## The fairSIM ImageJ / FIJI plugin
 
@@ -12,8 +12,10 @@ We provide an open-source implementation of the reconstruction algorithms used f
 It runs as a plugin to the popular image processing software [ImageJ](https://imagej.net/)
 and the [FIJI](https://fiji.sc/) package.   
 
+
+![Slide explaining SIM](images/slide-howSIMworks.svg)
+
 * The latest ready-to-use JAR file of the plugin can be found [here](https://github.com/fairSIM/fairSIM/releases/latest)
-* All releases, which might include current beta versions, are [here](https://github.com/fairSIM/fairSIM/releases/)
 * The source code is found in our main repository on [github](https://www.github.com/fairSIM/fairSIM)
 * There's also a [quickstart manual](https://github.com/fairSIM/fairSIM-documentation/releases/) for the plugin  
 * [Screencast videos](./screencasts/) showing how to reconstruct SIM data
@@ -21,8 +23,29 @@ and the [FIJI](https://fiji.sc/) package.
 If you use fairSIM for your research or education, please cite our *associated publication*:
 > M. Müller, V. Mönkemöller, S. Hennig, W. Hübner, T. Huser 
 > _Open-source image reconstruction of super-resolution structured illumination
-> microscopy data in ImageJ_, Nature Communications, 
+> microscopy data in ImageJ_, Nature Communications, 7(1), 10980.
 > [doi:10.1038/ncomms10980](https://doi.org/10.1038/ncomms10980)
+
+## The fairSIM VIGOR microscope & software
+
+We developed a bespoke, multi-color, video-rate SIM microscope that
+immediately reconstructs image data on-the-fly.
+
+![Figure showing the video-rate SIM in operation](images/vigor-video.jpg)
+
+The system is documented here
+
+> A. Markwirth, M. Lachetta, V. Mönkemöller, R. Heintzmann, W. Hübner, T. Huser, M. Müller
+> _Video-rate multi-color structured illumination microscopy with simultaneous real-time reconstruction._ 
+> Nature communications, 10(1), 1-11. [doi:10.1038/s41467-019-12165-x](https://doi.org/10.1038/s41467-019-12165-x)
+
+## Supporting the project
+
+Many research groups developing and applying SIM, as well as imaging facilities running SIM microscopes, profit
+from and support the fairSIM project. 
+
+**A list of official support statement [can be found here](supporters.html).**
+
 
 ## Current developments
 
@@ -30,8 +53,6 @@ If you use fairSIM for your research or education, please cite our *associated p
 * Support for _full 3D reconstruction_ is in _beta_. The current implementation can be found
 in the [develop-3D-SIM](https://www.github.com/fairSIM/fairSIM/tree/develop-3D-SIM) branch, but 
 there are known bugs compromising axial resolution.
-* A tightly integrated combination of SLM-based video-rate SIM imaging and fairSIM reconstruction is
-coming up.  
 
 
 ## Reference / test datasets
@@ -58,6 +79,7 @@ The reconstruction can be run both using _estimated_ and experimentally determin
 functions. Both [parameter files](https://github.com/fairSIM/test-datasets/tree/master/parameters) and
 [optical transfer functions](https://github.com/fairSIM/test-datasets/releases/download/Parameters-v1.0/OMX-OTFs.zip) are provided to test this feature.
  
+* Datasets for the VIGOR live SIM reconstruction can be [found on Zenodo](https://zenodo.org/record/3295829).
 
 # Contact & Development
 
