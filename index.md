@@ -53,6 +53,8 @@ from and support the fairSIM project.
 * Support for _full 3D reconstruction_ is in _beta_. The current implementation can be found
 in the [develop-3D-SIM](https://www.github.com/fairSIM/fairSIM/tree/develop-3D-SIM) branch, but 
 there are known bugs compromising axial resolution.
+* Our preprint of a multi-planar SIM system, employing an image splitting prism to simultaneously
+image multiple focal planes, can be found [here on biorxiv](https://doi.org/10.1101/773440).
 
 
 ## Reference / test datasets
