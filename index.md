@@ -85,11 +85,11 @@ functions. Both [parameter files](https://github.com/fairSIM/test-datasets/tree/
 
 The maintainer and lead developer of the fairSIM project is _Marcel Müller_
 
-* [web](https://www.mueller-physics.org): www.mueller-physics.org
-* [e-mail](mailto:muellerphysics@gmail.com): muellerphysics@gmail.com
-* [Twitter](https://twitter.com/mueller_physics): @mueller_physics
-* [ORCID](https://orcid.org/0000-0002-2264-3643): 0000-0002-2264-3643
-* [google scholar](https://scholar.google.com/citations?user=N29z1_wAAAAJ)
-* [LinkedIn](http://www.linkedin.com/in/mueller-physics): mueller-physics
-* [ResearchGate](https://www.researchgate.net/profile/Marcel_Mueller10)
+* web: [www.mueller-physics.org](https://www.mueller-physics.org)
+* e-mail: [muellerphysics@gmail.com](mailto:muellerphysics@gmail.com)
+* Twitter: [@mueller_physics](https://twitter.com/mueller_physics)
+* ORCID: [0000-0002-2264-3643](https://orcid.org/0000-0002-2264-3643)
+* Google Scholar: [Marcel Müller](https://scholar.google.com/citations?user=N29z1_wAAAAJ)
+* LinkedIn: [mueller-physics](http://www.linkedin.com/in/mueller-physics)
+* ResearchGate: [Marcel Müller](https://www.researchgate.net/profile/Marcel_Mueller10)
 
