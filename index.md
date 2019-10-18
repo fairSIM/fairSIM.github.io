@@ -65,6 +65,7 @@ from our [original publication](https://doi.org/10.1038/ncomms10980).
 
 
 * [OMX LSEC Membrane 680nm](https://github.com/fairSIM/test-datasets/releases/download/OMXv4-Bielefeld/OMX_LSEC_Membrane_680nm.tif)
+* [OMX LSEC Actin 525nm](https://github.com/fairSIM/test-datasets/releases/download/OMXv4-Bielefeld/OMX_LSEC_Actin_525nm.tif)
 * [OMX 200nm-Tetraspecks 680nm](https://github.com/fairSIM/test-datasets/releases/download/OMXv4-Bielefeld/OMX_Tetraspeck200_680nm.tif)
 * [OMX U2OS Actin 525nm](https://github.com/fairSIM/test-datasets/releases/download/OMXv4-Bielefeld/OMX_U2OS_Actin_525nm.tif)
 * [OMX U2OS Mitotracker 600nm](https://github.com/fairSIM/test-datasets/releases/download/OMXv4-Bielefeld/OMX_U2OS_Mitotracker_600nm.tif)
