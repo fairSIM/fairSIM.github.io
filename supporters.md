@@ -17,5 +17,5 @@ that support our project.
 |[Sebastian Munck](letters/fairSIM-munck.pdf) | VIB BioImaging Core | Leuven, Belgium | 
 |[Christian Schmidt](letters/fairSIM-schmidt.pdf) | Department of Physics | Duke University, NC, USA | 
 |[Herbert Schneckenburger](letters/fairSIM-schneckenburger.pdf) | Institute of Applied Research | Aalen University, Germany |
-
+|[David Smith](letters/fairSIM-smith.pdf) | GE Healthcare | Issaquah, WA, USA |
 
