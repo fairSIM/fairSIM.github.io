@@ -84,6 +84,20 @@ functions. Both [parameter files](https://github.com/fairSIM/test-datasets/tree/
  
 * Datasets for the VIGOR live SIM reconstruction can be [found on Zenodo](https://zenodo.org/record/3295829).
 
+# Funding
+
+<div style="display: flex;">
+
+<div style="width: 300px; margin-right: 10px; ">
+<img src="images/eu_emblem.svg" alt="The EU flag emblem" />
+</div>
+<div style="flex-grow: 1;">
+This  project has received  funding  from  the  European  Union’s  Horizon  2020
+research  and innovation programme under the Marie Skłodowska-Curie grant
+agreements No. 752080, "FASTR 3D SIM".
+</div>
+</div>
+
 # Contact & Development
 
 The maintainer and lead developer of the fairSIM project is _Marcel Müller_
